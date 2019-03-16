@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## ここならでサービスを購入する前に...
 
-You can use the [editor on GitHub](https://github.com/haniokasai/coconala-tos/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+この度は私に仕事依頼の相談をしていただきありがとうございます。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+購入前にこの文章は必ず読んでもらいたいと思います。というのも、依頼前に十分にサービスを理解してもらうべきだと考えているからです。
 
-### Markdown
+## 何をしてほしいかは、購入前に正確にすべて教えてほしい
+依頼者は購入前にどのようにしてほしいか私に伝えます。
+その内容で私は承諾します。
+トークルームに入った後に、「やっぱそれやってほしい」「やっぱ別の方法でお願い」とご要望されても、物理的に技術的にできないこともございます。要望を途中で追加するのは、深刻なトラブルにつながることがあります。もちろんできることであれば、要望を実現します。
+しかし、後出しの要望が実現できないからと言って「訴えられてやる」と言われても困ってしまいます。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##言われたことのみを作業します
+例えば
+```
+依頼者「メニューの位置を下に変更してほしい」
+私(作業して下に移動させた)
+依頼者「メニューは確かに下に移動されたので評価します」
+（後日）
+依頼者「メニューをずらしたせいで、表示が少し崩れてた」
+私（気づかなかった）
+```
+上記のような依頼を受けたとき、私は「メニューの位置を下に変更」するだけです。明らかにおかしくなければ、他の部分の崩れには気づかないかもしれません。認識には限度があります。絶対1pxのズレも許せないのであれば、私は依頼を引き受けることができません。もし、私の作業で他に差し支えが出れば、評価前に必ずお申し付けください。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## 簡単そうなことでもとても難しいかもしれない
+例えば
+```
+購入時に「青のボタンを追加してほしい」と注文。
+私が承諾し、青のボタンを追加。
+「やっぱ赤いボタンにしてほしい」
+でも、赤にする方法はなかった。
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+青を赤に変える「だけ」のことだったとしても、それはできるかどうかわかりません。青のボタンは追加できても、それを赤にする機能が実装されてないことだってあるでしょう。
 
-### Jekyll Themes
+## 常識は共有できないかもしれない
+私とあなたは同じ生活世界に住んでいません。ココナラでは、日本全国誰とでも取引できることはメリットではあります。
+しかし、それゆえに同じ常識は共有できないかもしれません。
+ですので、当然と思われることも文字にしてぜひ私に伝えてほしいです。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haniokasai/coconala-tos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 依頼を追加したい際は別注文をしてください
+1つの作業は原則1つのトークルームで行います。
+作業が複数になる場合は、1つずつ消化し、その都度購入と評価を繰り返していく流れとなります。
 
-### Support or Contact
+##　評価は慎重にお願いします
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+私が作業していない
+
+##　評価前までは返金がココナラのシステム上でできます
+
+## 評価後はシステム上返金できません
+
+## 評価後の不具合や要望の追加は受け付けません
